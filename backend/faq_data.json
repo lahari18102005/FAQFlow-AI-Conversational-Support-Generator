@@ -1,0 +1,2162 @@
+[
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can reach support through live chat, email, or phone."
+  },
+  {
+    "question": "What are the support hours?",
+    "answer": "Support is available 24 hours a day, 7 days a week."
+  },
+  {
+    "question": "How long does it take to get a response?",
+    "answer": "Most queries are resolved within 24 hours."
+  },
+  {
+    "question": "Can I talk to a live agent?",
+    "answer": "Yes, live chat support is available for real-time assistance."
+  },
+  {
+    "question": "How do I raise a support request?",
+    "answer": "Submit your issue through the help center or support section."
+  },
+  {
+    "question": "How do I check my support ticket status?",
+    "answer": "You can track your ticket in the support dashboard."
+  },
+  {
+    "question": "Can I reopen a closed ticket?",
+    "answer": "Yes, you can reopen it from your ticket history."
+  },
+  {
+    "question": "What details should I include in a support request?",
+    "answer": "Provide a clear description of the issue and any relevant screenshots."
+  },
+  {
+    "question": "How do I escalate my issue?",
+    "answer": "You can request escalation within your support ticket."
+  },
+  {
+    "question": "Can I cancel a support request?",
+    "answer": "Yes, you can close the ticket anytime from your dashboard."
+  },
+  {
+    "question": "Why am I unable to log in?",
+    "answer": "It could be due to incorrect login details or technical issues."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' and follow the instructions."
+  },
+  {
+    "question": "Why is my account locked?",
+    "answer": "Your account may be locked after multiple failed login attempts."
+  },
+  {
+    "question": "How do I unlock my account?",
+    "answer": "Reset your password or contact support."
+  },
+  {
+    "question": "Can I recover my account?",
+    "answer": "Yes, use the account recovery option available on the login page."
+  },
+  {
+    "question": "How do I update my profile information?",
+    "answer": "Go to your account settings and edit your details."
+  },
+  {
+    "question": "Can I change my email address?",
+    "answer": "Yes, update it from your profile settings."
+  },
+  {
+    "question": "How do I update my phone number?",
+    "answer": "Edit your phone number in account settings."
+  },
+  {
+    "question": "Can I add multiple contact details?",
+    "answer": "Yes, you can add additional contact information in your profile."
+  },
+  {
+    "question": "Is profile verification required?",
+    "answer": "Yes, verification helps ensure account security."
+  },
+  {
+    "question": "Why am I not receiving notifications?",
+    "answer": "Check your notification settings and internet connection."
+  },
+  {
+    "question": "How do I enable notifications?",
+    "answer": "Turn on notifications in your settings."
+  },
+  {
+    "question": "Can I customize notifications?",
+    "answer": "Yes, you can adjust notification preferences in settings."
+  },
+  {
+    "question": "Do you send email alerts?",
+    "answer": "Yes, important updates are sent via email."
+  },
+  {
+    "question": "How do I disable notifications?",
+    "answer": "You can turn them off from your settings."
+  },
+  {
+    "question": "Why is the application running slow?",
+    "answer": "It may be due to network issues or device performance."
+  },
+  {
+    "question": "How do I fix loading issues?",
+    "answer": "Try refreshing the page or restarting the app."
+  },
+  {
+    "question": "Why is the app crashing?",
+    "answer": "This may happen due to bugs or outdated versions."
+  },
+  {
+    "question": "How do I report a technical issue?",
+    "answer": "Report it through the support section."
+  },
+  {
+    "question": "How can I improve app performance?",
+    "answer": "Update the app and clear cache regularly."
+  },
+  {
+    "question": "How do I provide feedback?",
+    "answer": "Submit your feedback through the help section."
+  },
+  {
+    "question": "Can I suggest improvements?",
+    "answer": "Yes, we welcome user suggestions."
+  },
+  {
+    "question": "Where can I rate services?",
+    "answer": "You can rate services in the feedback section."
+  },
+  {
+    "question": "Is feedback reviewed?",
+    "answer": "Yes, all feedback is reviewed carefully."
+  },
+  {
+    "question": "Will I get a response to my feedback?",
+    "answer": "Yes, if a response is required."
+  },
+  {
+    "question": "How do I manage my privacy settings?",
+    "answer": "Adjust privacy options in your account settings."
+  },
+  {
+    "question": "Can I control who sees my data?",
+    "answer": "Yes, you can control visibility through privacy settings."
+  },
+  {
+    "question": "Is my data secure?",
+    "answer": "Yes, your data is protected using encryption."
+  },
+  {
+    "question": "Can I delete my personal data?",
+    "answer": "Yes, you can request data deletion through support."
+  },
+  {
+    "question": "Do you share my data with others?",
+    "answer": "No, your data is not shared without your consent."
+  },
+  {
+    "question": "How do I access the help center?",
+    "answer": "You can access it from the app menu."
+  },
+  {
+    "question": "Can I search for FAQs?",
+    "answer": "Yes, use the search feature in the help center."
+  },
+  {
+    "question": "Are FAQs updated regularly?",
+    "answer": "Yes, we update FAQs frequently."
+  },
+  {
+    "question": "Do you provide user guides?",
+    "answer": "Yes, guides are available in the help section."
+  },
+  {
+    "question": "Is chatbot support available?",
+    "answer": "Yes, chatbot support is available for quick help."
+  },
+  {
+    "question": "How do I log out from all devices?",
+    "answer": "Use the 'logout from all sessions' option in settings."
+  },
+  {
+    "question": "Can I view active sessions?",
+    "answer": "Yes, check them in your security settings."
+  },
+  {
+    "question": "How do I remove unknown devices?",
+    "answer": "Log out from that device via settings."
+  },
+  {
+    "question": "Is login history available?",
+    "answer": "Yes, you can view login history."
+  },
+  {
+    "question": "What should I do if I notice suspicious activity?",
+    "answer": "Immediately change your password and contact support."
+  },
+  {
+    "question": "What should I do if I see an error message?",
+    "answer": "Note the error and report it to support."
+  },
+  {
+    "question": "Why am I seeing unexpected errors?",
+    "answer": "This may be due to system updates or temporary issues."
+  },
+  {
+    "question": "How do I troubleshoot common issues?",
+    "answer": "Restart the app or check your internet connection."
+  },
+  {
+    "question": "Can I report bugs?",
+    "answer": "Yes, report them via the support section."
+  },
+  {
+    "question": "How quickly are bugs fixed?",
+    "answer": "We prioritize and fix bugs as soon as possible."
+  },
+  {
+    "question": "How do I change my account password?",
+    "answer": "Go to security settings and update your password."
+  },
+  {
+    "question": "Can I reuse my old password?",
+    "answer": "No, for security reasons you should use a new password."
+  },
+  {
+    "question": "How often should I change my password?",
+    "answer": "It is recommended to change it periodically for better security."
+  },
+  {
+    "question": "What makes a strong password?",
+    "answer": "Use a mix of letters, numbers, and special characters."
+  },
+  {
+    "question": "Can I enable two-factor authentication?",
+    "answer": "Yes, you can enable it in security settings."
+  },
+  {
+    "question": "What is two-factor authentication?",
+    "answer": "It adds an extra layer of security to your account."
+  },
+  {
+    "question": "How do I disable two-factor authentication?",
+    "answer": "You can disable it from your security settings."
+  },
+  {
+    "question": "Why should I enable two-factor authentication?",
+    "answer": "It helps protect your account from unauthorized access."
+  },
+  {
+    "question": "Can I receive OTP on email?",
+    "answer": "Yes, OTP can be sent to your registered email."
+  },
+  {
+    "question": "What if I donot receive OTP?",
+    "answer": "Check your network or try again after some time."
+  },
+  {
+    "question": "How do I update my notification preferences?",
+    "answer": "Go to settings and adjust notification options."
+  },
+  {
+    "question": "Can I receive only important alerts?",
+    "answer": "Yes, you can customize notifications accordingly."
+  },
+  {
+    "question": "Do notifications work on all devices?",
+    "answer": "Yes, if you are logged in on those devices."
+  },
+  {
+    "question": "Why are notifications delayed?",
+    "answer": "Delays may occur due to network issues."
+  },
+  {
+    "question": "Can I mute notifications temporarily?",
+    "answer": "Yes, you can mute notifications from settings."
+  },
+  {
+    "question": "How do I clear app cache?",
+    "answer": "Clear cache from your device or app settings."
+  },
+  {
+    "question": "Will clearing cache delete my data?",
+    "answer": "No, it only removes temporary files."
+  },
+  {
+    "question": "How do I reinstall the app?",
+    "answer": "Uninstall and install the latest version again."
+  },
+  {
+    "question": "Will reinstalling fix issues?",
+    "answer": "It often helps resolve technical problems."
+  },
+  {
+    "question": "How do I update to the latest version?",
+    "answer": "Update the app from the app store."
+  },
+  {
+    "question": "How do I switch between accounts?",
+    "answer": "Log out and log in with another account."
+  },
+  {
+    "question": "Can I use multiple accounts at once?",
+    "answer": "Currently, only one active session is supported."
+  },
+  {
+    "question": "How do I log out?",
+    "answer": "Click on the logout option in your profile menu."
+  },
+  {
+    "question": "What happens when I log out?",
+    "answer": "Your session will end on that device."
+  },
+  {
+    "question": "Can I log out remotely?",
+    "answer": "Yes, use logout from all devices option."
+  },
+  {
+    "question": "How do I report inappropriate behavior?",
+    "answer": "Use the report option in the app."
+  },
+  {
+    "question": "Can I block a user?",
+    "answer": "Yes, block users from their profile."
+  },
+  {
+    "question": "How do I unblock someone?",
+    "answer": "Go to settings and unblock the user."
+  },
+  {
+    "question": "Is reporting anonymous?",
+    "answer": "Yes, your identity is kept confidential."
+  },
+  {
+    "question": "What happens after I report?",
+    "answer": "Our team reviews the report and takes action."
+  },
+  {
+    "question": "How do I access my activity history?",
+    "answer": "Check activity logs in your account settings."
+  },
+  {
+    "question": "Can I delete my activity history?",
+    "answer": "Yes, you can clear your activity history."
+  },
+  {
+    "question": "Is activity history saved permanently?",
+    "answer": "No, it may be cleared periodically."
+  },
+  {
+    "question": "Can I download my activity data?",
+    "answer": "Yes, export option is available."
+  },
+  {
+    "question": "How do I export my data?",
+    "answer": "Use the export feature in settings."
+  },
+  {
+    "question": "How do I change language settings?",
+    "answer": "Select your preferred language in settings."
+  },
+  {
+    "question": "Can I switch languages anytime?",
+    "answer": "Yes, you can switch anytime."
+  },
+  {
+    "question": "Do you support multiple languages?",
+    "answer": "Yes, selected languages are supported."
+  },
+  {
+    "question": "Is language change applied instantly?",
+    "answer": "Yes, changes apply immediately."
+  },
+  {
+    "question": "Why is translation not accurate?",
+    "answer": "Some translations may vary based on context."
+  },
+  {
+    "question": "How do I customize the interface?",
+    "answer": "Customize layout and preferences in settings."
+  },
+  {
+    "question": "Can I enable dark mode?",
+    "answer": "Yes, dark mode is available in settings."
+  },
+  {
+    "question": "Does dark mode save battery?",
+    "answer": "Yes, especially on supported devices."
+  },
+  {
+    "question": "Can I reset interface settings?",
+    "answer": "Yes, reset from settings menu."
+  },
+  {
+    "question": "Will resetting affect my data?",
+    "answer": "No, only interface settings are reset."
+  },
+  {
+    "question": "How do I get updates about new features?",
+    "answer": "Check notifications or updates section."
+  },
+  {
+    "question": "Do you release updates regularly?",
+    "answer": "Yes, updates are released frequently."
+  },
+  {
+    "question": "Can I access previous versions?",
+    "answer": "No, only the latest version is supported."
+  },
+  {
+    "question": "How do I know whats new?",
+    "answer": "Check release notes in the app."
+  },
+  {
+    "question": "Are updates automatic?",
+    "answer": "Yes, if auto-update is enabled."
+  },
+  {
+    "question": "How do I contact technical support?",
+    "answer": "Use the support section for technical issues."
+  },
+  {
+    "question": "Can I share screenshots with support?",
+    "answer": "Yes, screenshots help explain issues better."
+  },
+  {
+    "question": "What if my issue is urgent?",
+    "answer": "Use live chat for faster assistance."
+  },
+  {
+    "question": "Do you provide priority support?",
+    "answer": "Yes, priority support may be available."
+  },
+  {
+    "question": "Can I follow up on my issue?",
+    "answer": "Yes, reply to your existing support ticket."
+  },
+  {
+    "question": "How do I update my contact preferences?",
+    "answer": "Go to account settings and adjust your contact preferences."
+  },
+  {
+    "question": "Can I choose how I receive updates?",
+    "answer": "Yes, you can select email, SMS, or app notifications."
+  },
+  {
+    "question": "Why am I receiving too many notifications?",
+    "answer": "Check and customize your notification settings."
+  },
+  {
+    "question": "Can I disable promotional messages?",
+    "answer": "Yes, turn them off in communication preferences."
+  },
+  {
+    "question": "Do important alerts still come if I disable notifications?",
+    "answer": "Yes, critical alerts are still delivered."
+  },
+  {
+    "question": "How do I verify my account?",
+    "answer": "Complete verification steps in your profile settings."
+  },
+  {
+    "question": "Why is verification required?",
+    "answer": "It ensures account security and authenticity."
+  },
+  {
+    "question": "What documents are needed for verification?",
+    "answer": "You may need ID proof or contact verification."
+  },
+  {
+    "question": "How long does verification take?",
+    "answer": "Verification is usually completed within a few hours."
+  },
+  {
+    "question": "What if verification fails?",
+    "answer": "Check your details and try again or contact support."
+  },
+  {
+    "question": "How do I manage connected devices?",
+    "answer": "View and manage devices in security settings."
+  },
+  {
+    "question": "Can I remove a device from my account?",
+    "answer": "Yes, you can remove any device anytime."
+  },
+  {
+    "question": "Why do I see an unknown device?",
+    "answer": "It could be unauthorized access; secure your account."
+  },
+  {
+    "question": "How do I secure my account immediately?",
+    "answer": "Change password and enable two-factor authentication."
+  },
+  {
+    "question": "Can I get alerts for new logins?",
+    "answer": "Yes, enable login alerts in security settings."
+  },
+  {
+    "question": "How do I clear my search history?",
+    "answer": "Clear it from settings or search preferences."
+  },
+  {
+    "question": "Is my search history saved?",
+    "answer": "Yes, to improve your experience."
+  },
+  {
+    "question": "Can I disable search history tracking?",
+    "answer": "Yes, disable it in privacy settings."
+  },
+  {
+    "question": "How do I delete recent activity?",
+    "answer": "Remove it from activity history."
+  },
+  {
+    "question": "Does clearing history improve performance?",
+    "answer": "It may help in some cases."
+  },
+  {
+    "question": "How do I customize my dashboard?",
+    "answer": "Adjust dashboard settings to your preference."
+  },
+  {
+    "question": "Can I rearrange dashboard items?",
+    "answer": "Yes, drag and drop options are available."
+  },
+  {
+    "question": "Can I hide unused features?",
+    "answer": "Yes, customize visibility in settings."
+  },
+  {
+    "question": "How do I reset dashboard layout?",
+    "answer": "Use reset option in dashboard settings."
+  },
+  {
+    "question": "Will customization sync across devices?",
+    "answer": "Yes, if sync is enabled."
+  },
+  {
+    "question": "How do I download my data?",
+    "answer": "Use the export data option in settings."
+  },
+  {
+    "question": "What format is exported data in?",
+    "answer": "Usually in CSV or JSON format."
+  },
+  {
+    "question": "Is data export secure?",
+    "answer": "Yes, data is securely processed."
+  },
+  {
+    "question": "Can I schedule data export?",
+    "answer": "Currently, manual export is supported."
+  },
+  {
+    "question": "How long does export take?",
+    "answer": "It depends on the data size."
+  },
+  {
+    "question": "How do I manage email preferences?",
+    "answer": "Update them in communication settings."
+  },
+  {
+    "question": "Can I unsubscribe from emails?",
+    "answer": "Yes, use unsubscribe option in emails."
+  },
+  {
+    "question": "Why am I still receiving emails?",
+    "answer": "Check if important alerts are still enabled."
+  },
+  {
+    "question": "Can I receive only essential emails?",
+    "answer": "Yes, adjust your preferences."
+  },
+  {
+    "question": "Are email preferences customizable?",
+    "answer": "Yes, fully customizable."
+  },
+  {
+    "question": "How do I switch accounts quickly?",
+    "answer": "Log out and log in with another account."
+  },
+  {
+    "question": "Can I save multiple accounts?",
+    "answer": "Currently, one account per session is supported."
+  },
+  {
+    "question": "Is account switching secure?",
+    "answer": "Yes, if done through official login process."
+  },
+  {
+    "question": "Can I link accounts?",
+    "answer": "Currently, linking multiple accounts is not supported."
+  },
+  {
+    "question": "How do I ensure safe login?",
+    "answer": "Use strong passwords and avoid public devices."
+  },
+  {
+    "question": "How do I report a missing feature?",
+    "answer": "Submit a feature request through feedback."
+  },
+  {
+    "question": "Can I track my feature request?",
+    "answer": "You may receive updates via email."
+  },
+  {
+    "question": "Are user suggestions implemented?",
+    "answer": "Yes, based on feasibility and demand."
+  },
+  {
+    "question": "How often are new features added?",
+    "answer": "New features are added regularly."
+  },
+  {
+    "question": "Can I vote for features?",
+    "answer": "Yes, if voting is enabled."
+  },
+  {
+    "question": "How do I manage session timeout?",
+    "answer": "Session timeout is managed automatically."
+  },
+  {
+    "question": "Why does my session expire quickly?",
+    "answer": "For security reasons."
+  },
+  {
+    "question": "Can I extend session duration?",
+    "answer": "Session duration is fixed for safety."
+  },
+  {
+    "question": "What happens after session timeout?",
+    "answer": "You will need to log in again."
+  },
+  {
+    "question": "Is session timeout necessary?",
+    "answer": "Yes, it protects your account."
+  },
+  {
+    "question": "How do I enable accessibility features?",
+    "answer": "Enable them from settings."
+  },
+  {
+    "question": "What accessibility options are available?",
+    "answer": "Options like text size and contrast."
+  },
+  {
+    "question": "Can I increase font size?",
+    "answer": "Yes, adjust it in display settings."
+  },
+  {
+    "question": "Is voice support available?",
+    "answer": "Voice features may be available."
+  },
+  {
+    "question": "Can I customize accessibility settings?",
+    "answer": "Yes, fully customizable."
+  },
+  {
+    "question": "How do I handle error codes?",
+    "answer": "Refer to help center or contact support."
+  },
+  {
+    "question": "Are error codes explained?",
+    "answer": "Yes, common errors are documented."
+  },
+  {
+    "question": "What if error persists?",
+    "answer": "Contact support for assistance."
+  },
+  {
+    "question": "Can I fix errors myself?",
+    "answer": "Some issues can be fixed with basic troubleshooting."
+  },
+  {
+    "question": "Are error logs stored?",
+    "answer": "Yes, for diagnostic purposes."
+  },
+  {
+    "question": "How do I log out from a single device?",
+    "answer": "Use logout option on that device."
+  },
+  {
+    "question": "Can I force logout all devices?",
+    "answer": "Yes, use logout from all sessions."
+  },
+  {
+    "question": "Why should I log out regularly?",
+    "answer": "To maintain account security."
+  },
+  {
+    "question": "Is automatic logout available?",
+    "answer": "Yes, after inactivity."
+  },
+  {
+    "question": "Can I disable auto logout?",
+    "answer": "No, it is for security."
+  },
+  {
+    "question": "How do I enable dark mode?",
+    "answer": "Go to display settings and enable dark mode."
+  },
+  {
+    "question": "Can I switch between light and dark themes?",
+    "answer": "Yes, you can switch anytime in settings."
+  },
+  {
+    "question": "Does dark mode affect performance?",
+    "answer": "No, it only changes visual appearance."
+  },
+  {
+    "question": "Is dark mode available on all devices?",
+    "answer": "Yes, on supported devices."
+  },
+  {
+    "question": "Can I schedule theme changes?",
+    "answer": "Yes, automatic scheduling may be available."
+  },
+  {
+    "question": "How do I update the application?",
+    "answer": "Update it from the app store or official website."
+  },
+  {
+    "question": "Why should I update regularly?",
+    "answer": "Updates improve performance and security."
+  },
+  {
+    "question": "Can I skip updates?",
+    "answer": "Some updates may be mandatory."
+  },
+  {
+    "question": "How do I know if an update is available?",
+    "answer": "Check the updates section or app store."
+  },
+  {
+    "question": "Do updates cost anything?",
+    "answer": "No, updates are free."
+  },
+  {
+    "question": "How do I clear notifications?",
+    "answer": "Clear them from the notification panel."
+  },
+  {
+    "question": "Can I archive notifications?",
+    "answer": "Yes, archive option is available."
+  },
+  {
+    "question": "How do I mark notifications as read?",
+    "answer": "Open the notification to mark it as read."
+  },
+  {
+    "question": "Can I restore deleted notifications?",
+    "answer": "No, deleted notifications cannot be recovered."
+  },
+  {
+    "question": "Do notifications expire?",
+    "answer": "Yes, after a certain time period."
+  },
+  {
+    "question": "How do I search within the app?",
+    "answer": "Use the search bar at the top."
+  },
+  {
+    "question": "Can I filter search results?",
+    "answer": "Yes, filters are available."
+  },
+  {
+    "question": "Why are search results inaccurate?",
+    "answer": "Try using more specific keywords."
+  },
+  {
+    "question": "Can I search my activity history?",
+    "answer": "Yes, if history is enabled."
+  },
+  {
+    "question": "How do I clear search history?",
+    "answer": "Clear it from settings."
+  },
+  {
+    "question": "How do I bookmark items?",
+    "answer": "Click the bookmark icon next to items."
+  },
+  {
+    "question": "Where are bookmarked items stored?",
+    "answer": "In the bookmarks section."
+  },
+  {
+    "question": "Can I remove bookmarks?",
+    "answer": "Yes, remove them anytime."
+  },
+  {
+    "question": "Can I organize bookmarks?",
+    "answer": "Yes, you can create folders."
+  },
+  {
+    "question": "Do bookmarks sync across devices?",
+    "answer": "Yes, if sync is enabled."
+  },
+  {
+    "question": "How do I enable auto-save?",
+    "answer": "Turn on auto-save in settings."
+  },
+  {
+    "question": "Can I disable auto-save?",
+    "answer": "Yes, you can disable it anytime."
+  },
+  {
+    "question": "What data is auto-saved?",
+    "answer": "Your preferences and progress are saved."
+  },
+  {
+    "question": "Is auto-save secure?",
+    "answer": "Yes, saved data is protected."
+  },
+  {
+    "question": "Can I restore auto-saved data?",
+    "answer": "Yes, restore from backup."
+  },
+  {
+    "question": "How do I invite others to use the service?",
+    "answer": "Use the invite feature in the app."
+  },
+  {
+    "question": "Can I resend invitations?",
+    "answer": "Yes, resend anytime."
+  },
+  {
+    "question": "How do I track invitations?",
+    "answer": "Check invitation status in settings."
+  },
+  {
+    "question": "Are there benefits for inviting users?",
+    "answer": "Some programs may offer rewards."
+  },
+  {
+    "question": "Is there a limit to invitations?",
+    "answer": "Limits may apply based on policy."
+  },
+  {
+    "question": "How do I enable location services?",
+    "answer": "Enable location in app settings."
+  },
+  {
+    "question": "Why is location required?",
+    "answer": "It helps provide personalized services."
+  },
+  {
+    "question": "Can I disable location access?",
+    "answer": "Yes, disable it anytime."
+  },
+  {
+    "question": "Is my location data stored?",
+    "answer": "Yes, securely and as per policy."
+  },
+  {
+    "question": "Is location data shared?",
+    "answer": "No, it is not shared without consent."
+  },
+  {
+    "question": "How do I sync my data?",
+    "answer": "Enable sync option in settings."
+  },
+  {
+    "question": "Can I sync data manually?",
+    "answer": "Yes, manual sync is available."
+  },
+  {
+    "question": "What if sync fails?",
+    "answer": "Check internet and retry."
+  },
+  {
+    "question": "Is sync automatic?",
+    "answer": "Yes, if enabled."
+  },
+  {
+    "question": "Does syncing use internet data?",
+    "answer": "Yes, it requires internet."
+  },
+  {
+    "question": "How do I connect external tools?",
+    "answer": "Use integrations section in settings."
+  },
+  {
+    "question": "Which integrations are supported?",
+    "answer": "Common tools and services are supported."
+  },
+  {
+    "question": "Can I disconnect integrations?",
+    "answer": "Yes, remove them anytime."
+  },
+  {
+    "question": "Are integrations secure?",
+    "answer": "Yes, secure APIs are used."
+  },
+  {
+    "question": "Do integrations require additional setup?",
+    "answer": "Yes, some require configuration."
+  },
+  {
+    "question": "How do I customize application settings?",
+    "answer": "Customize options in settings menu."
+  },
+  {
+    "question": "Can I reset settings to default?",
+    "answer": "Yes, use reset option."
+  },
+  {
+    "question": "Will resetting settings delete data?",
+    "answer": "No, only preferences are reset."
+  },
+  {
+    "question": "Can I backup my settings?",
+    "answer": "Yes, backup option is available."
+  },
+  {
+    "question": "Do settings sync across devices?",
+    "answer": "Yes, if sync is enabled."
+  },
+  {
+    "question": "How do I use offline features?",
+    "answer": "Offline mode supports limited functionality."
+  },
+  {
+    "question": "What features are available offline?",
+    "answer": "Basic viewing features are available."
+  },
+  {
+    "question": "Can I save data for offline use?",
+    "answer": "Yes, download content beforehand."
+  },
+  {
+    "question": "Will offline data sync later?",
+    "answer": "Yes, when you reconnect."
+  },
+  {
+    "question": "Does offline mode affect functionality?",
+    "answer": "Yes, some features may be limited."
+  },
+  {
+    "question": "How do I report inappropriate content?",
+    "answer": "Use the report option available."
+  },
+  {
+    "question": "Can I block users?",
+    "answer": "Yes, block from user profile."
+  },
+  {
+    "question": "How do I unblock users?",
+    "answer": "Go to settings and unblock."
+  },
+  {
+    "question": "What happens after reporting content?",
+    "answer": "It is reviewed by our team."
+  },
+  {
+    "question": "Is reporting confidential?",
+    "answer": "Yes, your identity is protected."
+  },
+  {
+    "question": "How do I manage privacy controls?",
+    "answer": "Adjust privacy settings in your account."
+  },
+  {
+    "question": "Can I restrict data visibility?",
+    "answer": "Yes, customize visibility options."
+  },
+  {
+    "question": "Who can access my profile?",
+    "answer": "Depends on your privacy settings."
+  },
+  {
+    "question": "Can I hide my activity?",
+    "answer": "Yes, enable privacy mode."
+  },
+  {
+    "question": "How do I manage cookies?",
+    "answer": "Use browser or app settings."
+  },
+  {
+    "question": "I can’t log in even after entering correct details, what should I do?",
+    "answer": "Try resetting your password or check if your account is locked."
+  },
+  {
+    "question": "My app keeps crashing suddenly, how can I fix it?",
+    "answer": "Update the app or reinstall it to resolve the issue."
+  },
+  {
+    "question": "I didn’t get any response from support, what now?",
+    "answer": "You can follow up on your ticket or escalate the issue."
+  },
+  {
+    "question": "I forgot which email I used to register, how can I recover my account?",
+    "answer": "Contact support with any known details to help locate your account."
+  },
+  {
+    "question": "Why am I getting logged out automatically?",
+    "answer": "This may happen due to session timeout for security reasons."
+  },
+  {
+    "question": "Can someone else access my account without permission?",
+    "answer": "Enable two-factor authentication to improve account security."
+  },
+  {
+    "question": "I think my account was hacked, what should I do immediately?",
+    "answer": "Reset your password and contact support immediately."
+  },
+  {
+    "question": "Why am I seeing unusual activity in my account?",
+    "answer": "Check your login history and secure your account."
+  },
+  {
+    "question": "How can I make my account more secure?",
+    "answer": "Use a strong password and enable two-factor authentication."
+  },
+  {
+    "question": "What should I do if I shared my password accidentally?",
+    "answer": "Change your password immediately."
+  },
+  {
+    "question": "The app is very slow today, is there any issue?",
+    "answer": "It may be due to server load or internet issues."
+  },
+  {
+    "question": "Why is the page taking too long to load?",
+    "answer": "Check your internet connection or refresh the page."
+  },
+  {
+    "question": "The features are not working properly, what should I do?",
+    "answer": "Try restarting the app or updating it."
+  },
+  {
+    "question": "Why am I seeing blank screens sometimes?",
+    "answer": "This may be due to temporary glitches or network issues."
+  },
+  {
+    "question": "How do I report a bug quickly?",
+    "answer": "Use the support section and describe the issue clearly."
+  },
+  {
+    "question": "I’m confused about how to use this feature, can you help?",
+    "answer": "You can check the help section or guides for detailed steps."
+  },
+  {
+    "question": "Is there any tutorial for beginners?",
+    "answer": "Yes, tutorials are available in the help center."
+  },
+  {
+    "question": "Can you guide me step by step?",
+    "answer": "Please specify your issue and we will guide you."
+  },
+  {
+    "question": "I don’t understand the interface, what should I do?",
+    "answer": "You can refer to user guides or contact support."
+  },
+  {
+    "question": "Where can I learn how to use all features?",
+    "answer": "Visit the help center for tutorials and guides."
+  },
+  {
+    "question": "Why am I not getting notifications on time?",
+    "answer": "Check your notification settings and network connection."
+  },
+  {
+    "question": "I stopped receiving alerts suddenly, why?",
+    "answer": "Ensure notifications are enabled in settings."
+  },
+  {
+    "question": "Can I get only important updates?",
+    "answer": "Yes, customize notification preferences."
+  },
+  {
+    "question": "Why am I getting too many alerts?",
+    "answer": "You can adjust your notification settings."
+  },
+  {
+    "question": "How do I completely stop notifications?",
+    "answer": "Disable them in settings."
+  },
+  {
+    "question": "I want to delete my account permanently, how do I do that?",
+    "answer": "Submit a request through support for account deletion."
+  },
+  {
+    "question": "Will my data be removed after deletion?",
+    "answer": "Yes, data is deleted as per policy."
+  },
+  {
+    "question": "Can I recover my account after deleting it?",
+    "answer": "No, deleted accounts cannot be recovered."
+  },
+  {
+    "question": "How long does account deletion take?",
+    "answer": "It may take a few days to process."
+  },
+  {
+    "question": "Do I need to confirm deletion?",
+    "answer": "Yes, confirmation is required for security."
+  },
+  {
+    "question": "I am getting an unknown error message, what does it mean?",
+    "answer": "It indicates a system issue; try again later or contact support."
+  },
+  {
+    "question": "Why am I seeing error codes?",
+    "answer": "Error codes indicate specific issues in the system."
+  },
+  {
+    "question": "How do I fix unknown errors?",
+    "answer": "Restart the app or contact support if the issue persists."
+  },
+  {
+    "question": "Are error messages stored?",
+    "answer": "Yes, for troubleshooting purposes."
+  },
+  {
+    "question": "Can I ignore minor errors?",
+    "answer": "Some errors may resolve automatically."
+  },
+  {
+    "question": "I submitted feedback but got no reply, is it normal?",
+    "answer": "Yes, not all feedback receives direct responses."
+  },
+  {
+    "question": "How do I know my feedback was considered?",
+    "answer": "Feedback is reviewed internally."
+  },
+  {
+    "question": "Can I track my suggestions?",
+    "answer": "Updates may be shared via notifications."
+  },
+  {
+    "question": "Do you implement user suggestions?",
+    "answer": "Yes, based on feasibility."
+  },
+  {
+    "question": "How often do you improve the system?",
+    "answer": "Improvements are made regularly."
+  },
+  {
+    "question": "Can I use this service without internet?",
+    "answer": "Only limited features may work offline."
+  },
+  {
+    "question": "What happens when I go offline?",
+    "answer": "Some features may stop working."
+  },
+  {
+    "question": "Does offline data sync later?",
+    "answer": "Yes, when you reconnect."
+  },
+  {
+    "question": "Can I save content offline?",
+    "answer": "Yes, if the feature is supported."
+  },
+  {
+    "question": "Is offline mode reliable?",
+    "answer": "It depends on available features."
+  },
+  {
+    "question": "I want to talk to a real person, how can I do that?",
+    "answer": "Use live chat or request a callback."
+  },
+  {
+    "question": "Is chatbot the only support option?",
+    "answer": "No, live agents are also available."
+  },
+  {
+    "question": "How do I request a callback?",
+    "answer": "Use the support section to request a call."
+  },
+  {
+    "question": "Can I choose support method?",
+    "answer": "Yes, choose chat, email, or phone."
+  },
+  {
+    "question": "Which support method is fastest?",
+    "answer": "Live chat is usually the quickest."
+  },
+  {
+    "question": "I can’t log in even after entering correct details, what should I do?",
+    "answer": "Try resetting your password or check if your account is locked."
+  },
+  {
+    "question": "My app keeps crashing suddenly, how can I fix it?",
+    "answer": "Update the app or reinstall it to resolve the issue."
+  },
+  {
+    "question": "I didn’t get any response from support, what now?",
+    "answer": "You can follow up on your ticket or escalate the issue."
+  },
+  {
+    "question": "I forgot which email I used to register, how can I recover my account?",
+    "answer": "Contact support with any known details to help locate your account."
+  },
+  {
+    "question": "Why am I getting logged out automatically?",
+    "answer": "This may happen due to session timeout for security reasons."
+  },
+  {
+    "question": "Can someone else access my account without permission?",
+    "answer": "Enable two-factor authentication to improve account security."
+  },
+  {
+    "question": "I think my account was hacked, what should I do immediately?",
+    "answer": "Reset your password and contact support immediately."
+  },
+  {
+    "question": "Why am I seeing unusual activity in my account?",
+    "answer": "Check your login history and secure your account."
+  },
+  {
+    "question": "How can I make my account more secure?",
+    "answer": "Use a strong password and enable two-factor authentication."
+  },
+  {
+    "question": "What should I do if I shared my password accidentally?",
+    "answer": "Change your password immediately."
+  },
+  {
+    "question": "The app is very slow today, is there any issue?",
+    "answer": "It may be due to server load or internet issues."
+  },
+  {
+    "question": "Why is the page taking too long to load?",
+    "answer": "Check your internet connection or refresh the page."
+  },
+  {
+    "question": "The features are not working properly, what should I do?",
+    "answer": "Try restarting the app or updating it."
+  },
+  {
+    "question": "Why am I seeing blank screens sometimes?",
+    "answer": "This may be due to temporary glitches or network issues."
+  },
+  {
+    "question": "How do I report a bug quickly?",
+    "answer": "Use the support section and describe the issue clearly."
+  },
+  {
+    "question": "I’m confused about how to use this feature, can you help?",
+    "answer": "You can check the help section or guides for detailed steps."
+  },
+  {
+    "question": "Is there any tutorial for beginners?",
+    "answer": "Yes, tutorials are available in the help center."
+  },
+  {
+    "question": "Can you guide me step by step?",
+    "answer": "Please specify your issue and we will guide you."
+  },
+  {
+    "question": "I don’t understand the interface, what should I do?",
+    "answer": "You can refer to user guides or contact support."
+  },
+  {
+    "question": "Where can I learn how to use all features?",
+    "answer": "Visit the help center for tutorials and guides."
+  },
+  {
+    "question": "Why am I not getting notifications on time?",
+    "answer": "Check your notification settings and network connection."
+  },
+  {
+    "question": "I stopped receiving alerts suddenly, why?",
+    "answer": "Ensure notifications are enabled in settings."
+  },
+  {
+    "question": "Can I get only important updates?",
+    "answer": "Yes, customize notification preferences."
+  },
+  {
+    "question": "Why am I getting too many alerts?",
+    "answer": "You can adjust your notification settings."
+  },
+  {
+    "question": "How do I completely stop notifications?",
+    "answer": "Disable them in settings."
+  },
+  {
+    "question": "I want to delete my account permanently, how do I do that?",
+    "answer": "Submit a request through support for account deletion."
+  },
+  {
+    "question": "Will my data be removed after deletion?",
+    "answer": "Yes, data is deleted as per policy."
+  },
+  {
+    "question": "Can I recover my account after deleting it?",
+    "answer": "No, deleted accounts cannot be recovered."
+  },
+  {
+    "question": "How long does account deletion take?",
+    "answer": "It may take a few days to process."
+  },
+  {
+    "question": "Do I need to confirm deletion?",
+    "answer": "Yes, confirmation is required for security."
+  },
+  {
+    "question": "I am getting an unknown error message, what does it mean?",
+    "answer": "It indicates a system issue; try again later or contact support."
+  },
+  {
+    "question": "Why am I seeing error codes?",
+    "answer": "Error codes indicate specific issues in the system."
+  },
+  {
+    "question": "How do I fix unknown errors?",
+    "answer": "Restart the app or contact support if the issue persists."
+  },
+  {
+    "question": "Are error messages stored?",
+    "answer": "Yes, for troubleshooting purposes."
+  },
+  {
+    "question": "Can I ignore minor errors?",
+    "answer": "Some errors may resolve automatically."
+  },
+  {
+    "question": "I submitted feedback but got no reply, is it normal?",
+    "answer": "Yes, not all feedback receives direct responses."
+  },
+  {
+    "question": "How do I know my feedback was considered?",
+    "answer": "Feedback is reviewed internally."
+  },
+  {
+    "question": "Can I track my suggestions?",
+    "answer": "Updates may be shared via notifications."
+  },
+  {
+    "question": "Do you implement user suggestions?",
+    "answer": "Yes, based on feasibility."
+  },
+  {
+    "question": "How often do you improve the system?",
+    "answer": "Improvements are made regularly."
+  },
+  {
+    "question": "Can I use this service without internet?",
+    "answer": "Only limited features may work offline."
+  },
+  {
+    "question": "What happens when I go offline?",
+    "answer": "Some features may stop working."
+  },
+  {
+    "question": "Does offline data sync later?",
+    "answer": "Yes, when you reconnect."
+  },
+  {
+    "question": "Can I save content offline?",
+    "answer": "Yes, if the feature is supported."
+  },
+  {
+    "question": "Is offline mode reliable?",
+    "answer": "It depends on available features."
+  },
+  {
+    "question": "I want to talk to a real person, how can I do that?",
+    "answer": "Use live chat or request a callback."
+  },
+  {
+    "question": "Is chatbot the only support option?",
+    "answer": "No, live agents are also available."
+  },
+  {
+    "question": "How do I request a callback?",
+    "answer": "Use the support section to request a call."
+  },
+  {
+    "question": "Can I choose support method?",
+    "answer": "Yes, choose chat, email, or phone."
+  },
+  {
+    "question": "Which support method is fastest?",
+    "answer": "Live chat is usually the quickest."
+  },
+  {
+    "question": "I tried everything but still can't log in, what else can I do?",
+    "answer": "Please contact support so they can investigate your account issue."
+  },
+  {
+    "question": "My issue is urgent, how do I get faster help?",
+    "answer": "Use live chat or mark your ticket as high priority."
+  },
+  {
+    "question": "I already reported this issue, why is it not fixed yet?",
+    "answer": "Some issues take time; you can follow up on your ticket."
+  },
+  {
+    "question": "Can you check my account and tell me what’s wrong?",
+    "answer": "Please contact support for account-specific assistance."
+  },
+  {
+    "question": "Why does the app behave differently on different devices?",
+    "answer": "Differences may be due to device compatibility or settings."
+  },
+  {
+    "question": "I clicked something and now things look different, how do I fix it?",
+    "answer": "You can reset settings or undo recent changes."
+  },
+  {
+    "question": "Why did my settings change automatically?",
+    "answer": "It may happen after updates or syncing across devices."
+  },
+  {
+    "question": "Can I undo recent changes?",
+    "answer": "Some settings can be reverted from the settings menu."
+  },
+  {
+    "question": "How do I go back to default settings?",
+    "answer": "Use the reset option in settings."
+  },
+  {
+    "question": "Will resetting fix most issues?",
+    "answer": "It can help resolve many configuration problems."
+  },
+  {
+    "question": "I don’t understand what this error means, can you explain?",
+    "answer": "Please refer to the help section or contact support for details."
+  },
+  {
+    "question": "Why do errors happen randomly?",
+    "answer": "They may occur due to temporary glitches or connectivity issues."
+  },
+  {
+    "question": "Is it normal to see occasional errors?",
+    "answer": "Yes, minor errors can occur occasionally."
+  },
+  {
+    "question": "How do I prevent errors?",
+    "answer": "Keep the app updated and ensure stable internet."
+  },
+  {
+    "question": "Can errors affect my data?",
+    "answer": "Most errors do not affect your saved data."
+  },
+  {
+    "question": "I feel the app is confusing, is there an easier way to use it?",
+    "answer": "You can follow tutorials or guides in the help center."
+  },
+  {
+    "question": "Is there a beginner-friendly mode?",
+    "answer": "Basic guides are available to help new users."
+  },
+  {
+    "question": "Can I get help while using the app?",
+    "answer": "Yes, chatbot and help options are available."
+  },
+  {
+    "question": "Do you provide walkthroughs?",
+    "answer": "Yes, step-by-step guides are available."
+  },
+  {
+    "question": "Can I learn features gradually?",
+    "answer": "Yes, you can explore features at your own pace."
+  },
+  {
+    "question": "Why am I not getting any updates?",
+    "answer": "Check your notification and email settings."
+  },
+  {
+    "question": "I missed an important notification, can I retrieve it?",
+    "answer": "Check notification history if available."
+  },
+  {
+    "question": "Are notifications reliable?",
+    "answer": "Yes, but may depend on network conditions."
+  },
+  {
+    "question": "Can notifications be delayed?",
+    "answer": "Yes, due to connectivity issues."
+  },
+  {
+    "question": "How do I ensure I don’t miss alerts?",
+    "answer": "Enable all important notifications."
+  },
+  {
+    "question": "I want to completely stop using this service, what should I do?",
+    "answer": "You can request account deletion via support."
+  },
+  {
+    "question": "Can I temporarily deactivate my account?",
+    "answer": "Deactivation options may be available."
+  },
+  {
+    "question": "What happens after deactivation?",
+    "answer": "Your account becomes inactive until reactivated."
+  },
+  {
+    "question": "Is deactivation reversible?",
+    "answer": "Yes, you can log in again to reactivate."
+  },
+  {
+    "question": "How do I ensure my data is removed?",
+    "answer": "Request full deletion through support."
+  },
+  {
+    "question": "I don’t trust this system fully, how is my data protected?",
+    "answer": "Your data is secured using encryption and privacy measures."
+  },
+  {
+    "question": "Can anyone see my private information?",
+    "answer": "No, your data is protected and controlled by privacy settings."
+  },
+  {
+    "question": "What if my data is leaked?",
+    "answer": "Contact support immediately if you suspect any issue."
+  },
+  {
+    "question": "Do you follow privacy regulations?",
+    "answer": "Yes, data protection policies are followed."
+  },
+  {
+    "question": "How can I control my data usage?",
+    "answer": "Adjust privacy settings in your account."
+  },
+  {
+    "question": "I want faster performance, what can I do?",
+    "answer": "Ensure good internet and keep the app updated."
+  },
+  {
+    "question": "Does clearing data improve speed?",
+    "answer": "Yes, clearing cache can improve performance."
+  },
+  {
+    "question": "Why is performance inconsistent?",
+    "answer": "It may vary due to network or system load."
+  },
+  {
+    "question": "Is there a way to optimize the app?",
+    "answer": "Regular updates and clearing unused data help."
+  },
+  {
+    "question": "Can device storage affect performance?",
+    "answer": "Yes, low storage can slow down the app."
+  },
+  {
+    "question": "I need help but don’t know where to start, what should I do?",
+    "answer": "Start with the help center or ask your query."
+  },
+  {
+    "question": "Can I ask multiple questions at once?",
+    "answer": "Yes, but one at a time gives better answers."
+  },
+  {
+    "question": "How do I describe my issue clearly?",
+    "answer": "Explain what happened and what you expected."
+  },
+  {
+    "question": "Can I attach files for support?",
+    "answer": "Yes, attachments help explain issues better."
+  },
+  {
+    "question": "What if I explain my issue incorrectly?",
+    "answer": "Support may ask follow-up questions to clarify."
+  },
+  {
+    "question": "I feel the system is not responding properly, what should I do?",
+    "answer": "Check your connection or restart the app."
+  },
+  {
+    "question": "Why does the system sometimes lag?",
+    "answer": "Lag may occur due to heavy usage or network issues."
+  },
+  {
+    "question": "Is there a way to check system status?",
+    "answer": "System status may be available in help section."
+  },
+  {
+    "question": "Can maintenance affect performance?",
+    "answer": "Yes, temporary slowdowns may occur."
+  },
+  {
+    "question": "Do you notify users about maintenance?",
+    "answer": "Yes, notifications are sent in advance."
+  },
+  {
+    "question": "Nothing is working properly today, is something wrong with the system?",
+    "answer": "There may be temporary issues or maintenance; please try again later."
+  },
+  {
+    "question": "Why does everything suddenly feel slow and unresponsive?",
+    "answer": "This could be due to network issues or high system load."
+  },
+  {
+    "question": "I’m really frustrated, I’ve tried everything and it still doesn’t work",
+    "answer": "I understand your frustration; please contact support so we can assist you further."
+  },
+  {
+    "question": "Can you just fix my issue directly instead of giving steps?",
+    "answer": "For account-specific issues, please contact support for direct assistance."
+  },
+  {
+    "question": "Why is this so complicated to use?",
+    "answer": "We recommend checking guides or tutorials to simplify usage."
+  },
+  {
+    "question": "I think I made a mistake somewhere, how do I undo it?",
+    "answer": "You can reset settings or revert recent changes if available."
+  },
+  {
+    "question": "Can I go back to how things were before?",
+    "answer": "Yes, use reset or restore options in settings."
+  },
+  {
+    "question": "Why do changes apply immediately without confirmation?",
+    "answer": "Some settings are applied instantly for convenience."
+  },
+  {
+    "question": "Is there a confirmation before major changes?",
+    "answer": "Yes, important actions usually require confirmation."
+  },
+  {
+    "question": "Can I preview changes before applying them?",
+    "answer": "Some features may allow previews depending on settings."
+  },
+  {
+    "question": "I’m not sure what exactly my issue is, can you still help?",
+    "answer": "Yes, please describe your situation and we will guide you."
+  },
+  {
+    "question": "I don’t know how to explain my problem properly",
+    "answer": "You can describe what you see and what you expected instead."
+  },
+  {
+    "question": "Can I just tell you what happened and you figure it out?",
+    "answer": "Yes, provide details and we will help identify the issue."
+  },
+  {
+    "question": "I clicked something and now I’m stuck, what should I do?",
+    "answer": "Try going back or restarting the app."
+  },
+  {
+    "question": "Everything looks different now, how do I fix it?",
+    "answer": "Check settings or reset the interface."
+  },
+  {
+    "question": "Why does the app sometimes behave unpredictably?",
+    "answer": "It may be due to temporary glitches or updates."
+  },
+  {
+    "question": "Is it normal for features to change after updates?",
+    "answer": "Yes, updates may introduce changes or improvements."
+  },
+  {
+    "question": "Can updates break existing features?",
+    "answer": "Rarely, but issues are usually fixed quickly."
+  },
+  {
+    "question": "How do I report problems after an update?",
+    "answer": "Use the support section to report issues."
+  },
+  {
+    "question": "Can I avoid updates completely?",
+    "answer": "Some updates are required for security."
+  },
+  {
+    "question": "I don’t want to receive any messages at all, how do I stop everything?",
+    "answer": "Disable all notifications in settings."
+  },
+  {
+    "question": "Why do I still get alerts even after disabling them?",
+    "answer": "Critical alerts may still be sent."
+  },
+  {
+    "question": "Can I silence notifications for a while?",
+    "answer": "Yes, use the mute option."
+  },
+  {
+    "question": "How do I control notification frequency?",
+    "answer": "Customize notification settings."
+  },
+  {
+    "question": "Can I prioritize certain alerts?",
+    "answer": "Yes, mark important notifications."
+  },
+  {
+    "question": "I’m worried about my account security, what should I check?",
+    "answer": "Review login activity and enable security features."
+  },
+  {
+    "question": "How do I know if someone accessed my account?",
+    "answer": "Check login history in settings."
+  },
+  {
+    "question": "What are signs of unauthorized access?",
+    "answer": "Unrecognized devices or changes in settings."
+  },
+  {
+    "question": "Can I lock my account temporarily?",
+    "answer": "Contact support for security actions."
+  },
+  {
+    "question": "How often should I review my security settings?",
+    "answer": "Regularly for better protection."
+  },
+  {
+    "question": "I’m not getting the expected results from the system, why?",
+    "answer": "It may depend on input or system conditions."
+  },
+  {
+    "question": "Can results vary each time?",
+    "answer": "Yes, depending on context and data."
+  },
+  {
+    "question": "How do I get more accurate results?",
+    "answer": "Provide clear and specific inputs."
+  },
+  {
+    "question": "Why does the system misunderstand my query?",
+    "answer": "Ambiguous queries may lead to confusion."
+  },
+  {
+    "question": "Can I refine my question for better results?",
+    "answer": "Yes, rephrasing can improve accuracy."
+  },
+  {
+    "question": "I want quick help without going through long steps, what should I do?",
+    "answer": "Use chatbot or live chat for faster assistance."
+  },
+  {
+    "question": "Is there a shortcut to get help?",
+    "answer": "Use search in help center."
+  },
+  {
+    "question": "Can I directly ask questions instead of browsing FAQs?",
+    "answer": "Yes, chatbot allows direct queries."
+  },
+  {
+    "question": "Which is the fastest support option?",
+    "answer": "Live chat is usually the fastest."
+  },
+  {
+    "question": "Do I always need to create a ticket?",
+    "answer": "No, quick help options are available."
+  },
+  {
+    "question": "I feel like the system is ignoring my request",
+    "answer": "Please try again or contact support if the issue continues."
+  },
+  {
+    "question": "Why is there no response sometimes?",
+    "answer": "It may be due to network or server delays."
+  },
+  {
+    "question": "Can delays happen during peak time?",
+    "answer": "Yes, response times may vary."
+  },
+  {
+    "question": "How do I check if the system is down?",
+    "answer": "Check status updates or notifications."
+  },
+  {
+    "question": "Will I be informed if there’s downtime?",
+    "answer": "Yes, users are notified about major issues."
+  },
+  {
+    "question": "I want to completely understand how everything works here",
+    "answer": "You can explore guides and documentation."
+  },
+  {
+    "question": "Is there a detailed manual available?",
+    "answer": "Yes, help center includes detailed guides."
+  },
+  {
+    "question": "Can I learn step by step?",
+    "answer": "Yes, tutorials are available."
+  },
+  {
+    "question": "Where should I start as a beginner?",
+    "answer": "Start with basic guides in help section."
+  },
+  {
+    "question": "Do you provide training resources?",
+    "answer": "Yes, learning resources are available."
+  },
+  {
+    "question": "I reset my password but still can't log in, what should I do next?",
+    "answer": "Try clearing cache or contact support for further help."
+  },
+  {
+    "question": "I updated my details but they are not showing, why?",
+    "answer": "Changes may take time to reflect or require refresh."
+  },
+  {
+    "question": "I reported an issue yesterday and still no update, what can I do?",
+    "answer": "You can follow up on your support ticket."
+  },
+  {
+    "question": "My account works on one device but not another, why?",
+    "answer": "It may be due to device compatibility or settings."
+  },
+  {
+    "question": "I enabled notifications but still not receiving any alerts",
+    "answer": "Check device permissions and network connection."
+  },
+  {
+    "question": "I tried logging in multiple times and now I'm locked out, how long will it last?",
+    "answer": "Account lock is temporary; you can reset password to unlock."
+  },
+  {
+    "question": "I keep getting errors when trying to use a feature, what should I do?",
+    "answer": "Restart the app or report the issue."
+  },
+  {
+    "question": "I changed my settings but the app still behaves the same, why?",
+    "answer": "Try restarting the app or clearing cache."
+  },
+  {
+    "question": "I don’t understand if the issue is from my side or the system",
+    "answer": "Check your connection and try again; if it persists, contact support."
+  },
+  {
+    "question": "The app was working fine earlier but now it’s not, what changed?",
+    "answer": "Recent updates or temporary issues may affect functionality."
+  },
+  {
+    "question": "I’m getting different results each time I try the same thing, why?",
+    "answer": "Results may vary depending on context or system conditions."
+  },
+  {
+    "question": "I accidentally changed something and now I don’t know how to fix it",
+    "answer": "You can reset settings to default."
+  },
+  {
+    "question": "I followed all steps but still facing the issue, what next?",
+    "answer": "Please contact support for detailed assistance."
+  },
+  {
+    "question": "I’m not sure which option to select, can you guide me?",
+    "answer": "Please describe your goal and we will guide you."
+  },
+  {
+    "question": "There are too many options and I’m confused, what should I do?",
+    "answer": "Refer to help guides or start with basic options."
+  },
+  {
+    "question": "I want to solve my issue quickly without going through multiple steps",
+    "answer": "Use live chat for quick assistance."
+  },
+  {
+    "question": "Can I directly talk to someone instead of using the system?",
+    "answer": "Yes, live support is available."
+  },
+  {
+    "question": "Why does the system ask so many steps before solving?",
+    "answer": "Steps ensure accurate and secure resolution."
+  },
+  {
+    "question": "Is there a simpler way to do this?",
+    "answer": "You can check quick guides in help center."
+  },
+  {
+    "question": "Can I skip certain steps?",
+    "answer": "Some steps are required for proper functioning."
+  },
+  {
+    "question": "I think the system misunderstood my query, how do I correct it?",
+    "answer": "Try rephrasing your query clearly."
+  },
+  {
+    "question": "Why am I getting irrelevant answers?",
+    "answer": "It may be due to unclear input."
+  },
+  {
+    "question": "How do I ask better questions?",
+    "answer": "Be specific and include key details."
+  },
+  {
+    "question": "Can I refine my previous query?",
+    "answer": "Yes, you can re-enter your query."
+  },
+  {
+    "question": "What if I don’t know the right terms to use?",
+    "answer": "Describe your issue in simple words."
+  },
+  {
+    "question": "I’m worried something is wrong with my account but not sure what",
+    "answer": "Check account activity and contact support if needed."
+  },
+  {
+    "question": "How do I confirm if everything is working fine?",
+    "answer": "Review your settings and activity logs."
+  },
+  {
+    "question": "Can I run a check on my account?",
+    "answer": "Basic checks can be done in account settings."
+  },
+  {
+    "question": "What are signs of system issues?",
+    "answer": "Frequent errors or slow performance."
+  },
+  {
+    "question": "How do I stay updated about system issues?",
+    "answer": "Check notifications or announcements."
+  },
+  {
+    "question": "I want to understand why something happened, not just fix it",
+    "answer": "Help center provides explanations for common issues."
+  },
+  {
+    "question": "Can you explain what caused this issue?",
+    "answer": "It may be due to system or user input factors."
+  },
+  {
+    "question": "Is there a log of what actions I performed?",
+    "answer": "Yes, activity logs are available."
+  },
+  {
+    "question": "Can I track my changes?",
+    "answer": "Yes, through activity history."
+  },
+  {
+    "question": "How do I learn from my mistakes here?",
+    "answer": "Review steps and use guides."
+  },
+  {
+    "question": "I don’t want to break anything while trying to fix this",
+    "answer": "Follow guided steps or contact support."
+  },
+  {
+    "question": "Is it safe to try troubleshooting myself?",
+    "answer": "Yes, basic troubleshooting is safe."
+  },
+  {
+    "question": "Can I undo changes if something goes wrong?",
+    "answer": "Yes, in most cases settings can be reset."
+  },
+  {
+    "question": "What if I make things worse?",
+    "answer": "Support can help recover settings."
+  },
+  {
+    "question": "Is there a risk in changing settings?",
+    "answer": "Only if done incorrectly; follow instructions."
+  },
+  {
+    "question": "I want everything to work smoothly without issues, how can I ensure that?",
+    "answer": "Keep the app updated and maintain good connectivity."
+  },
+  {
+    "question": "How do I avoid common problems?",
+    "answer": "Follow best practices and keep settings optimized."
+  },
+  {
+    "question": "Can I automate maintenance tasks?",
+    "answer": "Some features may support automation."
+  },
+  {
+    "question": "What is the best way to use the system efficiently?",
+    "answer": "Use guides and optimize settings."
+  },
+  {
+    "question": "Can regular checks prevent issues?",
+    "answer": "Yes, periodic checks improve reliability."
+  },
+  {
+    "question": "It’s not working",
+    "answer": "Could you please describe the issue in more detail so I can help you better?"
+  },
+  {
+    "question": "Something went wrong",
+    "answer": "Can you tell me what you were trying to do when the issue occurred?"
+  },
+  {
+    "question": "I can’t do this",
+    "answer": "Please share more details so I can guide you properly."
+  },
+  {
+    "question": "Why is this happening?",
+    "answer": "Could you provide more context about the issue you're facing?"
+  },
+  {
+    "question": "This doesn’t make sense",
+    "answer": "Let me know what part is confusing and I’ll explain it clearly."
+  },
+  {
+    "question": "Can you explain again?",
+    "answer": "Sure, I’ll simplify it. Please tell me which part you need help with."
+  },
+  {
+    "question": "I didn’t understand your answer",
+    "answer": "Let me rephrase it in a simpler way for you."
+  },
+  {
+    "question": "Can you give step-by-step instructions?",
+    "answer": "Yes, I can guide you step by step. What exactly are you trying to do?"
+  },
+  {
+    "question": "Can you make it simpler?",
+    "answer": "Of course, I’ll explain it in an easier way."
+  },
+  {
+    "question": "Can you show me how to do it?",
+    "answer": "I can guide you with steps. Please tell me your goal."
+  },
+  {
+    "question": "What should I do next?",
+    "answer": "It depends on your issue. Could you describe what you've done so far?"
+  },
+  {
+    "question": "What’s the next step after this?",
+    "answer": "Please share your current step so I can guide you further."
+  },
+  {
+    "question": "Now what?",
+    "answer": "Let me know your situation and I’ll help you with the next step."
+  },
+  {
+    "question": "Is this correct?",
+    "answer": "Please share what you’ve done so I can confirm."
+  },
+  {
+    "question": "Did I do something wrong?",
+    "answer": "Tell me what happened and I’ll help you check."
+  },
+  {
+    "question": "I tried what you said earlier but it didn’t work",
+    "answer": "I see, let’s try another approach. Can you tell me what happened after trying it?"
+  },
+  {
+    "question": "Same problem again",
+    "answer": "Thanks for letting me know. Could you describe what exactly is happening now?"
+  },
+  {
+    "question": "Still not fixed",
+    "answer": "Let’s troubleshoot further. What error or issue are you seeing now?"
+  },
+  {
+    "question": "It worked before but not now",
+    "answer": "Something might have changed. Can you describe the current issue?"
+  },
+  {
+    "question": "This keeps happening again and again",
+    "answer": "Recurring issues may need deeper investigation. Please contact support."
+  },
+  {
+    "question": "Can you help me quickly?",
+    "answer": "Sure, please briefly describe your issue so I can assist you faster."
+  },
+  {
+    "question": "I need urgent help",
+    "answer": "For urgent issues, please use live chat or contact support."
+  },
+  {
+    "question": "This is taking too long",
+    "answer": "I understand. Let’s try to resolve it quickly—please share key details."
+  },
+  {
+    "question": "Can you give a direct answer?",
+    "answer": "Yes, please specify your question clearly."
+  },
+  {
+    "question": "No time to read long steps",
+    "answer": "I’ll keep it short. Tell me your issue."
+  },
+  {
+    "question": "Is there an easier way?",
+    "answer": "Yes, there may be simpler options. What are you trying to do?"
+  },
+  {
+    "question": "Can I skip this step?",
+    "answer": "Some steps are necessary. Please tell me which step you mean."
+  },
+  {
+    "question": "Do I really need to do this?",
+    "answer": "It depends on your situation. Please share more details."
+  },
+  {
+    "question": "Why is this required?",
+    "answer": "It helps ensure correct and secure operation."
+  },
+  {
+    "question": "Is there an alternative?",
+    "answer": "There might be alternatives. What is your goal?"
+  },
+  {
+    "question": "I forgot what I was doing",
+    "answer": "No problem, tell me what you remember and I’ll help you continue."
+  },
+  {
+    "question": "I lost track of steps",
+    "answer": "Let’s restart. What are you trying to achieve?"
+  },
+  {
+    "question": "I got distracted and now I’m confused",
+    "answer": "That’s okay, tell me your goal and we’ll continue."
+  },
+  {
+    "question": "Where was I?",
+    "answer": "Please describe your last action so I can guide you."
+  },
+  {
+    "question": "Can we start again?",
+    "answer": "Sure, what would you like to do?"
+  },
+  {
+    "question": "What does this option mean?",
+    "answer": "Please tell me the option name and I’ll explain it."
+  },
+  {
+    "question": "I don’t understand this feature",
+    "answer": "Let me explain it—what part is unclear?"
+  },
+  {
+    "question": "Why is this option disabled?",
+    "answer": "It may depend on your settings or permissions."
+  },
+  {
+    "question": "Can I enable this feature?",
+    "answer": "Yes, if available in your settings."
+  },
+  {
+    "question": "What happens if I click this?",
+    "answer": "Tell me the option and I’ll explain the outcome."
+  },
+  {
+    "question": "I think I made a mistake earlier",
+    "answer": "That’s okay, we can fix it. What did you do?"
+  },
+  {
+    "question": "Can I correct my mistake?",
+    "answer": "Yes, most actions can be corrected."
+  },
+  {
+    "question": "Will my mistake cause problems?",
+    "answer": "Usually not, but it depends on the action."
+  },
+  {
+    "question": "How do I undo something?",
+    "answer": "Use reset or revert options if available."
+  },
+  {
+    "question": "Can I go back to previous step?",
+    "answer": "Yes, if navigation allows it."
+  },
+  {
+    "question": "I don’t know what to ask",
+    "answer": "No problem, tell me your goal and I’ll guide you."
+  },
+  {
+    "question": "I just need help",
+    "answer": "Sure, please describe what you need help with."
+  },
+  {
+    "question": "Can you guide me from the beginning?",
+    "answer": "Yes, tell me what you want to achieve."
+  },
+  {
+    "question": "I’m new here",
+    "answer": "Welcome! Let me know what you want to do."
+  },
+  {
+    "question": "I need basic help",
+    "answer": "I can guide you step by step. What do you need help with?"
+  }
+]

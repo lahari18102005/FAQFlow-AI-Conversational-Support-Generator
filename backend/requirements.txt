@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+faiss-cpu
+sentence-transformers
+requests
+python-dotenv
+numpy
